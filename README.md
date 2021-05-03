@@ -1,5 +1,5 @@
 # `replaceR`
-# A Tracery-like Replacement Grammar Implemented in R
+## A Tracery-like Replacement Grammar Implemented in R
 
 `replaceR` generates text by traversing a grammar that is stored as a data table or CSV. This offers a simple and flexible approach (for me) to generate text.
 
