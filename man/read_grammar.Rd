@@ -13,5 +13,5 @@ read_grammar(filename)
 A data table containing a Tracery-like grammar
 }
 \description{
-Read in a CSV containing a grammar.
+Read in a CSV containing a grammar of symbols and options.
 }

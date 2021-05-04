@@ -7,8 +7,8 @@ Authors@R:
            role = c("aut", "cre"),
            email = "kurtisturnbull@gmail.com")
 Description: `replaceR` generates text by traversing a grammar that is stored as
-a data table or CSV. This offers a simple and flexible approach (for me) to 
-generate text.
+              a data table or CSV. This offers a simple and flexible approach 
+              (for me) to generate text.
 License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
     license
 Encoding: UTF-8
