@@ -19,7 +19,7 @@ expand_story <- function(grammar, origin){
       }
       else {
       template <- str_replace(template, paste0("#", target_symbol, "#"),
-                            grow_branch(grammar, target_symbol))
+                            select_option(grammar, target_symbol))
       }
     }
   }
