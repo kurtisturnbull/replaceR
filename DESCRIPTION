@@ -8,14 +8,14 @@ Authors@R:
            email = "kurtisturnbull@gmail.com")
 Description: `replaceR` generates text by traversing a grammar that is stored as
               a data table or CSV. This offers a simple and flexible approach 
-              (for me) to generate text.
+              to generate text.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.1.1
 Imports:
-    data.table
+    data.table,
     stringr
 Suggests: 
     knitr,
