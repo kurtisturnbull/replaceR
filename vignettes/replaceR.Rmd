@@ -1,6 +1,7 @@
 ---
 title: "replaceR"
 author: "Kurtis F. Turnbull"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: rmarkdown::html_vignette
 vignette: >
   %\VignetteIndexEntry{replaceR}
