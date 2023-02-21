@@ -195,7 +195,7 @@ forest_grammar <- read_grammar(temporary_file)
 
 To report a bug, ask a question, or offer a suggestion for improvement,
 please open an
-[issue.](https://github.com/kurtisturnbull/%60replaceR%60/issues)
+[issue.](https://github.com/kurtisturnbull/replaceR/issues)
 
 ## More Tracery resources
 
